@@ -4,4 +4,5 @@ if array.length>2
  puts array.join (" and ")
  else 
    puts array.join (" and ") 
+ end
 end
