@@ -1,4 +1,5 @@
 def oxford_comma(array)
-when array.length=3
+if array.length>2
  puts array.join (" and ") 
+ else 
 end
